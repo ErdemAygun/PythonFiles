@@ -1,0 +1,3 @@
+Module is for higher-order functions.
+Properties of instances that are otherwise effectively immutable
+Since a dictionary is used to cache results, the positional and keyword arguments to the function must be hashable.
